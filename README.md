@@ -46,7 +46,7 @@ See [ContinueRequestOverrides](https://pptr.dev/api/puppeteer.continuerequestove
 ## Usage
 #### Importing:
 ```js
-const useProxy = require('puppeteer-page-proxy');
+const useProxy = require('@lem0-packages/puppeteer-page-proxy');
 ```
 
 #### Proxy per page:
